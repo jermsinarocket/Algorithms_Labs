@@ -2,7 +2,7 @@
 Labs for CZ2001: Algorithms
 
 ## Language(s) used
-* 
+* Java
 
 ## IDE(s) used
 * 
